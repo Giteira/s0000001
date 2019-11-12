@@ -1,0 +1,24 @@
+
+#EXTM3U size="Medium"
+
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E01
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP01.mp4
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E02
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP02.mp4
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E03
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP03.mp4
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E04
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP04.mp4
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E05
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP05.mp4
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E06
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP06.mp4
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E07
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP07.mp4
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E08
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP08.mp4
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E09
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP09.mp4
+#EXTINF:0 tvg-logo="https://www.blahzinga.com/wp-content/uploads/2019/06/NOS4A2.jpg" group-title="NOS4A2: Nosferatu",S01E10
+http://cdnfe2.azureedge.net/RCServer04/ondemand/NOS4A2T01EP10.mp4
+
