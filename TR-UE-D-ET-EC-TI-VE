@@ -1,0 +1,53 @@
+
+#EXTM3U size="Medium"
+
+
+#EXTINF:0  tvg-logo="https://cometa.top/player3/imgs-videos/Series/True%20Detective%203.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE S03E07
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TRDTVT03EP07.mp4
+#EXTINF:0  tvg-logo="https://cometa.top/player3/imgs-videos/Series/True%20Detective%203.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE S03E06
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TRDTVT03EP06.mp4
+#EXTINF:0  tvg-logo="https://cometa.top/player3/imgs-videos/Series/True%20Detective%203.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE S03E05
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TRDTVT03EP05.mp4
+#EXTINF:0  tvg-logo="https://cometa.top/player3/imgs-videos/Series/True%20Detective%203.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE S03E04
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TRDTVT03EP04.mp4
+#EXTINF:0  tvg-logo="https://cometa.top/player3/imgs-videos/Series/True%20Detective%203.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE S03E03
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TRDTVT03EP03.mp4
+#EXTINF:0  tvg-logo="https://cometa.top/player3/imgs-videos/Series/True%20Detective%203.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE S03E02
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TRDTVT03EP02.mp4
+#EXTINF:0  tvg-logo="https://cometa.top/player3/imgs-videos/Series/True%20Detective%203.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE S03E01
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TRDTVT03EP01.mp4
+
+
+#EXTINF:0 tvg-logo="http://londontheinside.com/wp-content/uploads/2015/06/true-detective-season-2.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 2x08 Omega Station – Season Finale
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TRDTVT02EP08.mp4
+#EXTINF:0 tvg-logo="http://londontheinside.com/wp-content/uploads/2015/06/true-detective-season-2.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 2x07 Black Maps and Motel Rooms
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TRDTVT02EP07.mp4
+#EXTINF:0 tvg-logo="http://londontheinside.com/wp-content/uploads/2015/06/true-detective-season-2.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 2x06 Church in Ruins
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TRDTVT02EP06.mp4
+#EXTINF:0 tvg-logo="http://londontheinside.com/wp-content/uploads/2015/06/true-detective-season-2.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 2x05 Other Lives
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TRDTVT02EP05.mp4
+#EXTINF:0 tvg-logo="http://londontheinside.com/wp-content/uploads/2015/06/true-detective-season-2.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 2x04 Down Will Come
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TRDTVT02EP04.mp4
+#EXTINF:0 tvg-logo="http://londontheinside.com/wp-content/uploads/2015/06/true-detective-season-2.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 2x03 Maybe Tomorrow 
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TRDTVT02EP03.mp4
+#EXTINF:0 tvg-logo="http://londontheinside.com/wp-content/uploads/2015/06/true-detective-season-2.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 2x02 Night Finds You
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TRDTVT02EP02.mp4
+#EXTINF:0 tvg-logo="http://londontheinside.com/wp-content/uploads/2015/06/true-detective-season-2.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 2x01 The Western Book of the Dead
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TRDTVT02EP01.mp4
+#EXTINF:0 tvg-logo="http://is4.mzstatic.com/image/thumb/Music71/v4/4c/ab/ed/4cabed2d-2c7d-cf2d-1f7d-e4d29c2310ab/source/600x600bb.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 1x08 Form and Void
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TRDTVT01EP08.mp4
+#EXTINF:0 tvg-logo="http://is4.mzstatic.com/image/thumb/Music71/v4/4c/ab/ed/4cabed2d-2c7d-cf2d-1f7d-e4d29c2310ab/source/600x600bb.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 1x07 After You’ve Gone
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TRDTVT01EP07.mp4
+#EXTINF:0 tvg-logo="http://is4.mzstatic.com/image/thumb/Music71/v4/4c/ab/ed/4cabed2d-2c7d-cf2d-1f7d-e4d29c2310ab/source/600x600bb.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 1x06 Haunted Houses
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TRDTVT01EP06.mp4
+#EXTINF:0 tvg-logo="http://is4.mzstatic.com/image/thumb/Music71/v4/4c/ab/ed/4cabed2d-2c7d-cf2d-1f7d-e4d29c2310ab/source/600x600bb.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 1x05 The Secret Fate of All Life
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TRDTVT01EP05.mp4
+#EXTINF:0 tvg-logo="http://is4.mzstatic.com/image/thumb/Music71/v4/4c/ab/ed/4cabed2d-2c7d-cf2d-1f7d-e4d29c2310ab/source/600x600bb.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 1x04 Who Goes There
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TRDTVT01EP04.mp4
+#EXTINF:0 tvg-logo="http://is4.mzstatic.com/image/thumb/Music71/v4/4c/ab/ed/4cabed2d-2c7d-cf2d-1f7d-e4d29c2310ab/source/600x600bb.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 1x03 The Locked Room
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TRDTVT01EP03.mp4
+#EXTINF:0 tvg-logo="http://is4.mzstatic.com/image/thumb/Music71/v4/4c/ab/ed/4cabed2d-2c7d-cf2d-1f7d-e4d29c2310ab/source/600x600bb.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 1x02 Seeing Things
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TRDTVT01EP02.mp4
+#EXTINF:0 tvg-logo="http://is4.mzstatic.com/image/thumb/Music71/v4/4c/ab/ed/4cabed2d-2c7d-cf2d-1f7d-e4d29c2310ab/source/600x600bb.jpg" group-title="TRUE DETECTIVE",TRUE DETECTIVE 1x01 The Long Bright Dark
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TRDTVT01EP01.mp4
+
