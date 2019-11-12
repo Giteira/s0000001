@@ -1,4 +1,15 @@
-.net/RCServer09/ondemand/BJKHRSMNT01EP04.mp4?STANIPTV
+#EXTM3U size="Medium"
+#EXTINF:0  tvg-logo="http://4.bp.blogspot.com/-ZSyMUI5JP0k/VqaUtIuA2aI/AAAAAAAAOXw/i-w1p-bo5iw/s1600/01.jpg" group-title="BOJACK HORSEMAN",BOJACK HORSEMAN
+http://www.blogger.com/video-play.mp4?contentId=46d4b93b54e052b5
+
+#EXTINF:0  tvg-logo="http://4.bp.blogspot.com/-ZSyMUI5JP0k/VqaUtIuA2aI/AAAAAAAAOXw/i-w1p-bo5iw/s1600/01.jpg" group-title="BOJACK HORSEMAN",BOJACK T01|EP1
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BJKHRSMNT01EP01.mp4?STANIPTV
+#EXTINF:0  tvg-logo="http://4.bp.blogspot.com/-ZSyMUI5JP0k/VqaUtIuA2aI/AAAAAAAAOXw/i-w1p-bo5iw/s1600/01.jpg" group-title="BOJACK HORSEMAN",BOJACK T01|EP2
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BJKHRSMNT01EP01.mp4?STANIPTV
+#EXTINF:0  tvg-logo="http://4.bp.blogspot.com/-ZSyMUI5JP0k/VqaUtIuA2aI/AAAAAAAAOXw/i-w1p-bo5iw/s1600/01.jpg" group-title="BOJACK HORSEMAN",BOJACK T01|EP3
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BJKHRSMNT01EP03.mp4?STANIPTV
+#EXTINF:0  tvg-logo="http://4.bp.blogspot.com/-ZSyMUI5JP0k/VqaUtIuA2aI/AAAAAAAAOXw/i-w1p-bo5iw/s1600/01.jpg" group-title="BOJACK HORSEMAN",BOJACK T01|EP4
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BJKHRSMNT01EP04.mp4?STANIPTV
 #EXTINF:0  tvg-logo="http://4.bp.blogspot.com/-ZSyMUI5JP0k/VqaUtIuA2aI/AAAAAAAAOXw/i-w1p-bo5iw/s1600/01.jpg" group-title="BOJACK HORSEMAN",BOJACK T01|EP5
 http://cdnfe3.azureedge.net/RCServer09/ondemand/BJKHRSMNT01EP05.mp4?STANIPTV
 #EXTINF:0  tvg-logo="http://4.bp.blogspot.com/-ZSyMUI5JP0k/VqaUtIuA2aI/AAAAAAAAOXw/i-w1p-bo5iw/s1600/01.jpg" group-title="BOJACK HORSEMAN",BOJACK T01|EP6
