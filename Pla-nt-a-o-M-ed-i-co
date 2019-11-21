@@ -1,5 +1,5 @@
 
-#EXTM3U size="Medium"
+#EXTM3U  size="medium"
 
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/muzeez/uploads/histories/medium/historiesFiles/GrqCQWqAfMgQvnjhT-er-plantao-medico.jpg" group-title="Plantão Médico",S01E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/PLTMDCT01EP01.mp4
